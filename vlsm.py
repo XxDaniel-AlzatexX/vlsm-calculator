@@ -1,7 +1,3 @@
-# Network Calculator
-#Daniel Felipe Alzate Mateus
-#Juan David Robledo Garzon
-#Manuel Felipe Sanchez Avella 
 import ipaddress as ip
 
 def menu():
